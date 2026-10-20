@@ -17,4 +17,4 @@
 - Đã hoàn thiện Keep, Tasks và Calendar.
 
 ## BÀI 4: QUẢN LÝ DỰ ÁN NHÓM TRÊN TRELLO
-- **Link Board Trello:**
+- **Link Board Trello:**https://trello.com/invite/b/6ad79fbedbf50e6e8d956e1f/ATTI2855252287ccc9a96595120151ec9fa03B362E1B/dự-an-phan-tich-so-sanh-cac-cong-cụ-cntt
